@@ -1,0 +1,40 @@
+body {
+  background-color: #fff3f7;
+  color: #3b1f2b;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  color: #a4133c;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+h2 {
+  color: #c9184a;
+}
+
+h3 {
+  color: #ff4d6d;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 2px solid #ff8fab;
+  border-radius: 20px;
+}
+
+.btn-primary {
+  background-color: #ff8fab;
+  border-color: #ff8fab;
+}
+
+.btn-primary:hover {
+  background-color: #c9184a;
+  border-color: #c9184a;
+}
